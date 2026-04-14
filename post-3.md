@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Third Thought"
+title: "No.2"
 ---
-# My Third Post
+# 14.04.2026
 Another entry accessible via the navigation bar.
