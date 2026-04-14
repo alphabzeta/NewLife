@@ -1,0 +1,11 @@
+title: "The Anonymous Journal"
+author: "Ghost"
+email: "alphabzeta@proton.me" # This will show in the footer
+description: "I feel Good"
+theme: minima
+
+# This tells GitHub which pages to put in your top menu
+header_pages:
+  - about.md
+  - post-2.md
+  - post-3.md
