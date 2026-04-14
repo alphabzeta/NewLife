@@ -3,6 +3,6 @@ layout: page
 ---
 
 
-Welcome to the main page of my blog. This is my primary post that everyone sees first. 
+Welcome. I have two lives, old life from 1973 to 1996 and new life since 1997. I will make a collection of posts with what I remember from both.
 
-You can find my posts in the menu at the top right.
+
